@@ -1,0 +1,50 @@
+84 lines (851 sloc)  18.4 KB
+---
+---
+
+/* main color is shades of grayish gunmetal blue*/
+$primary-very-light: #B6E4FF;	// very light blue */
+$primary-light: #76B3DA;	// light blue */
+$primary-mid: #3F7DA6;	        // mid blue */
+$primary-dark: #164B6C;	        // dark blue */
+$primary-very-dark: #021A29;	// almost black blue */
+
+/* secondary color is shades of lavender and purple */
+$secondary-mid: #333676;	// dark purple */
+$secondary-very-light: #9092C4;	// very light lavender */
+$secondary-light: #5A5D9B;	// mid purple */
+$secondary-dark: #161951;	// very dark purple */
+$secondary-very-dark: #06082D;	// almost black purple */
+
+/* complement color is shades of yellow and ochre */
+$complement-mid: #AA8C39;	// gold */
+$complement-very-light: #FFEAB0; // peach, almost white yellow */
+$complement-light: #DFC272;	// light ochre yellow */
+$complement-dark: #755B12;	// raw umber, yellow ochre tan */
+$complement-very-dark: #413000;	// cola, yellowish brown */
+
+body {
+    font-family: "Josefin Sans", "Proxima Nova", Helvetica, Corbel, sans-serif;
+    text-decoration: none;
+    line-height: 1.5rem;
+    background-color: $secondary-dark;
+}
+.main {
+	width: 65rem;
+	margin: 1rem;
+	text-align: left;
+}
+.main, .footer {
+    background-color: rgba(228, 244, 255, 0.9);
+    border: 1rem solid $primary-very-light;
+}
+.header, .main, .footer{
+	position: relative;
+	clear: both;
+	margin: 0 auto;
+	margin-bottom: 2rem;
+	width: 68rem;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
