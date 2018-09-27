@@ -25,7 +25,7 @@ Rotate the planet board & select a Sky Object, to use its action on the land ben
 # Gaia-Vora Game Rules
 ### September 12, 2018
 
-# EQUIPMENT
+## EQUIPMENT
 
 - 1 cardboard Sky Board
 - 1 cardboard Planet Carousel
