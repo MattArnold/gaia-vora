@@ -6,7 +6,7 @@ order: 1
 published: true
 ---
 
-# A board game by Nemo Rathwald, designer of ["Overworld"](https://www.magicmeeplegames.com/overworld.html)
+# An unpublished board game by Nemo Rathwald, designer of ["Overworld"](https://www.magicmeeplegames.com/overworld.html)
 ## 2 to 4 players
 ## 40 to 60 minutes
 ## Ages 12 and up
@@ -15,6 +15,7 @@ Rotate the planet board & select a Sky Object, to use its action on the land ben
 
 <img src="assets/images/gaia-vora.gif" width="80%">
 
+*The images below will not match the prototype animated GIF above. The images below are works in progress from a more polished prototype, which will debut at U-Con Board Game Convention in Ypsilanti, MI, November 9 through 11, 2018.*
 
 # Gaia-Vora Game Rules
 ### September 12, 2018
@@ -106,6 +107,8 @@ The game is over at the end of the turn when all the Snow and Grass Tiles are on
 
 ### THE SUN OR THE RAINBOW
 
+<img src="assets/images/sun.png"><img src="assets/images/rainbow.png">
+
 If you chose to activate the Sun or Rainbow, add Life-Forms (CarniVores, HerbiVores, or Plants) to the Planet: one on the Tile directly under the Sun/Rainbow, and one on the visible surface of each Tile touching that Tile, including Water.
 
 If using the Sun, all Life-Forms must be your own color. If using the Rainbow, all Life-Forms must be in different colors.
@@ -115,6 +118,8 @@ If using the Sun, all Life-Forms must be your own color. If using the Rainbow, a
 *The uncovered surface of the Planet Carousel is one big Water Tile, connected through the center of the Planet Carousel. So, check if any the Water already contains the species you are trying to add to the Water.*
 
 ### THE STORM
+
+<img src="assets/images/storm.png">
 
 If you chose to activate the Storm, move all Life-Forms out of the Tile under the Storm. Move them into any Tiles that Tile is next to, which may include Water. (The Water is next to everything.)
 
@@ -126,7 +131,9 @@ If you chose to activate the Storm, move all Life-Forms out of the Tile under th
 
 *You must move the Plant, and the HerbiVore, and the CarniVore, even if you do not want to move all of them.*
 
-### METEOR
+### THE METEOR
+
+<img src="assets/images/meteor.png">
 
 When you activate the Meteor, you will stack a Tile onto the location under the Meteor.
 
@@ -141,6 +148,10 @@ The Life-Forms which were standing on the Tile where this Tile landed are all ki
 Water is an exception: Life-Forms in the Water will always swim into the center of the Planet, gather around the Axle Peg, and survive the Meteor dropping a Tile on Water.
 
 ### THE MOON
+
+<img src="assets/images/moon.png">
+
+The Moon is not printed on the Sky Board; it is printed on the ratchet flap inserted upright into a slot on the board.
 
 The player may not choose to activate the Moon. Instead, it activates itself to cause Eating in the location under it, at all times, on every turn. Players do not get a choice about the Moon’s effect.
 
