@@ -164,7 +164,7 @@ Whenever CarniVores or HerbiVores are beneath the Moon, they immediately attempt
 
 The player who owns the HerbiVore (if any) awards its player with ownership of the Plant (if any). Then the player who owns the CarniVore (if any) awards its player with ownership of the HerbiVore (if any).
 
-*Plants do not eat anything. Nothing eats CarniVores; they cannot be eaten. *
+*Plants do not eat anything. Nothing eats CarniVores; they cannot be eaten.*
 
 When any player’s Life-Forms eat another Life-Form, the eaten Life-Form is awarded to the player whose color did the eating, even if that is not the player whose turn it is. The player whose Life-Form did the eating will keep the eaten Life-Form on their Reference Card.
 
