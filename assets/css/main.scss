@@ -33,12 +33,24 @@ body {
     background-size: 20rem;
     background-repeat: no-repeat;
 }
-#upper-left {
+.upper-left {
     background-image: url(assets/images/sun.png);
 }
-#upper-right {
+.upper-right {
     background-image: url(assets/images/comet.png);
     background-position-x: right;
+}
+.left-cloud, .center-cloud, .right-cloud {
+    background-image: url(assets/images/cloud.png);
+    background-position-x: center;
+}
+.left-cloud {
+    margin-left: 15%;
+    margin-right: 60%;
+}
+.right-cloud {
+    margin-left: 60%;
+    margin-right: 15%;
 }
 .main {
 	width: 65rem;
