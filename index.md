@@ -15,7 +15,11 @@ Rotate the planet board & select a Sky Object, to use its action on the land ben
 
 <img src="assets/images/gaia-vora.gif" width="80%">
 
-*The images below will not match the prototype animated GIF above. The images below are works in progress from a more polished prototype, which will debut at U-Con Board Game Convention in Ypsilanti, MI, November 9 through 11, 2018.*
+*The images below will not match the prototype animated GIF above. The images below are works in progress from a more polished prototype.*
+
+*The latest prototype will demo at:*
+- *The Loaded Die Con - Corktown, MI, October 13 and 14, 2018.*
+- *U-Con Board Game Convention - Ypsilanti, MI, November 9 through 11, 2018.*
 
 # Gaia-Vora Game Rules
 ### September 12, 2018
