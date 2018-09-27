@@ -6,7 +6,7 @@ order: 1
 published: true
 ---
 
-# An unpublished board game by Nemo Rathwald,
+# An unpublished board game by Nemo Rathwald
 ## designer of ["Overworld"](https://www.magicmeeplegames.com/overworld.html)
 ### 2 to 4 players
 ### 40 to 60 minutes
