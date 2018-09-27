@@ -107,7 +107,7 @@ The game is over at the end of the turn when all the Snow and Grass Tiles are on
 
 ### THE SUN OR THE RAINBOW
 
-<img src="assets/images/sun.png"><img src="assets/images/rainbow.png">
+<img src="assets/images/sun.png" height="400px"><img src="assets/images/rainbow.png" height="400px">
 
 If you chose to activate the Sun or Rainbow, add Life-Forms (CarniVores, HerbiVores, or Plants) to the Planet: one on the Tile directly under the Sun/Rainbow, and one on the visible surface of each Tile touching that Tile, including Water.
 
@@ -119,7 +119,7 @@ If using the Sun, all Life-Forms must be your own color. If using the Rainbow, a
 
 ### THE STORM
 
-<img src="assets/images/storm.png">
+<img src="assets/images/storm.png" height="400px">
 
 If you chose to activate the Storm, move all Life-Forms out of the Tile under the Storm. Move them into any Tiles that Tile is next to, which may include Water. (The Water is next to everything.)
 
@@ -133,7 +133,7 @@ If you chose to activate the Storm, move all Life-Forms out of the Tile under th
 
 ### THE METEOR
 
-<img src="assets/images/meteor.png">
+<img src="assets/images/meteor.png" height="400px">
 
 When you activate the Meteor, you will stack a Tile onto the location under the Meteor.
 
@@ -149,7 +149,7 @@ Water is an exception: Life-Forms in the Water will always swim into the center 
 
 ### THE MOON
 
-<img src="assets/images/moon.png">
+<img src="assets/images/moon.png" width="400px">
 
 The Moon is not printed on the Sky Board; it is printed on the ratchet flap inserted upright into a slot on the board.
 
