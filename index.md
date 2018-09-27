@@ -24,7 +24,7 @@ Rotate the planet board & select a Sky Object, to use its action on the land ben
 - 1 cardboard Sky Board
 - 1 cardboard Planet Carousel
 - 1 wooden north-pole Axle Peg
-- 1 cardboard ratchet-stopping Flap
+- 1 cardboard ratchet-stopping flap with a Moon printed on it
 - 48 Life-Form Figures in 4 player colors:
 - - 12 CarniVore Figures (3 in each color)
 - - 16 HerbiVore Figures (4 in each color)
@@ -58,15 +58,13 @@ At the end of the game, you want your Life-Forms to live at high altitudes atop 
 
 Stack the Planet Carousel on the Sky Board. Insert the wooden dowel Peg through the holes in both layers so that the Planet Carousel can rotate on the Sky Board.
 
-Place the Carousel in a random rotation at the start of the game. Take the ratchet-stopping flap which is shaped like a cloud. Insert its tab into the slot on the Sky Board. This ensures that the planet Carousel can only rotate clockwise.
+Place the Carousel in a random rotation at the start of the game. Take the ratchet-stopping flap which has the Moon printed on it. Insert its tab into the slot on the Sky Board. This ensures that the planet Carousel can only rotate clockwise.
 
 The game comes with Tiles called “Land Tiles” in four colors: 4 grey Stone, 4 yellow Sand, 4 green Grass, and 3 white Snow. The Planet has eight sawteeth around its edge. Each land Tile is shaped like a pie slice that covers 1/8 of the Planet and aligns with one sawtooth.
 
 Cover all the Water around the perimeter of the Planet with Stone and Sand Tiles, alternating.
 
 Set aside the Snow and Grass Tiles within reach of the players.
-
-The Sky Objects are printed on the Sky spaces on the Sky Board, in this order, clockwise: Rainbow, Sun, empty Sky space, Storm, empty Sky space, Meteor, Moon. (The remaining Sky space contains the cardboard cloud flap which stops the planet from rotating counter-clockwise.)
 
 Each player has 12 Life-Form Figures in their color: 3 CarniVores, 4 HerbiVores, and 5 Plants.
 
@@ -86,7 +84,7 @@ Players take turns in clockwise order.
 
 1. Roll the die and rotate the planet.
 
-To take your turn, roll the die. It bears these sides: 1, 1, 2, 2, 3, 3. Rotate the Planet a number of steps equal to the number on the die. Each step trips the ratchet-stopper once.
+To take your turn, roll the die. It bears these sides: 1, 1, 2, 2, 3, 3. Rotate the Planet a number of steps equal to the number on the die. Each step trips the ratchet-stopper flap once. It has the Moon printed on it.
 
 2. Optionally spend Stars to rotate the planet more.
 
@@ -108,9 +106,9 @@ The game is over at the end of the turn when all the Snow and Grass Tiles are on
 
 ### THE SUN OR THE RAINBOW
 
-If you chose to activate the Sun or Rainbow, add Life-Forms (CarniVores, HerbiVores, or Plants) to the Planet: one on the Tile directly under the Sun, and one on the visible surface of each Tile touching that Tile, including Water.
+If you chose to activate the Sun or Rainbow, add Life-Forms (CarniVores, HerbiVores, or Plants) to the Planet: one on the Tile directly under the Sun/Rainbow, and one on the visible surface of each Tile touching that Tile, including Water.
 
-If using the Sun, all three Life-Forms must be your own color. If using the Rainbow, all three Life-Forms must be in different colors.
+If using the Sun, all Life-Forms must be your own color. If using the Rainbow, all Life-Forms must be in different colors.
 
 **Each Tile may only have one of each species standing on it.** *That means you might not place the maximum possible number of Life-Forms, if there is not room.*
 
