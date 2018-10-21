@@ -23,14 +23,14 @@ Rotate the planet board & select a Sky Object, to use its action on the land ben
 - *U-Con Board Game Convention - Ypsilanti, MI, November 9 through 11, 2018.*
 
 # Gaia-Vora Game Rules
-### September 12, 2018
+### October 21, 2018
 
 ## EQUIPMENT
 
 - 1 cardboard Sky Board
 - 1 cardboard Planet Carousel
 - 1 wooden north-pole Axle Peg
-- 1 cardboard ratchet-stopping flap with a Moon printed on it
+- 1 cardboard ratchet-stopping Flap with a Moon printed on it
 - 48 Life-Form Figures in 4 player colors:
 - - 12 CarniVore Figures (3 in each color)
 - - 16 HerbiVore Figures (4 in each color)
@@ -42,7 +42,6 @@ Rotate the planet board & select a Sky Object, to use its action on the land ben
 - - 4 Grass (green)
 - - 4 Sand (orange)
 - 4 Stone (grey)
-- 1 six-sided Die with sides: 1, 1, 2, 2, 3, 3
 
 ## OBJECTIVE
 
@@ -82,27 +81,22 @@ Each player places their Life-Forms on the table in front of them. This is their
 
 ## TAKING A TURN
 
-1. Roll the die and rotate the planet.
-2. Optionally spend Stars to rotate the planet more.
-3. Activate a corner of the board: the Sun, Rainbow, Storm, or Meteor.
+1. Rotate the Planet Carousel.
+2. Activate a corner of the board: the Sun, Rainbow, Storm, or Meteor.
 
 Players take turns in clockwise order. 
 
-1. Roll the die and rotate the planet.
+1. Rotate the Planet Carousel.
 
-To take your turn, roll the die. It bears these sides: 1, 1, 2, 2, 3, 3. Rotate the Planet a number of steps equal to the number on the die. Each step trips the ratchet-stopper flap once. It has the Moon printed on it.
-
-2. Optionally spend Stars to rotate the planet more.
-
-You may rotate the planet 1 additional ratchet stop for each Star you return to the game box. You begin the game with four Stars. Once spent, Stars are gone for the rest of the game, so use them carefully!
+Rotate the Planet one, two, or three steps. Each step trips the ratchet-stopper once. You must spend a Star to stop at one step, or to rotate the Planet three steps. If you rotate the Planet two steps, you do not need to spend a Star. Once spent, Stars are gone for the rest of the game, so use them carefully!
 
 4. Activate a corner of the board: the Sun, Rainbow, Storm, or Meteor.
 
-Each Sky Object has a different power. Activate its power on the Tile beneath it. Life-forms are born under the Rainbow and the Sun, migrate out from under the Storm, and get blown up when the Meteor drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following section for how to activate the power of the Sky Object you chose.
+Each "Sky Object" (Sun, Rainbow, Storm, or Meteor) has a different power. Activate its power on the Tile beneath it. Life-forms are born under the Rainbow and the Sun, migrate out from under the Storm, and get blown up when the Meteor drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following section for how to activate the power of the Sky Object you chose.
 
 (You may not select the Moon, because the Moon always activates its power no matter what you choose. Life Forms only eat each other under the Moon, which will be discussed later.)
 
-*You are not allowed to select a Sky Object whose activation would cause nothing to change. If all of them would change nothing in their current positions, you may move one. We'll talk about moving them soon.*
+*If it is not possible to completely fulfill the instructions of a Sky Object, carry them out as much as possible. Skip any steps that are impossible. However, if every step is impossible, you may not select that Sky Object; you are not allowed to select a Sky Object whose activation would cause nothing to change.*
 
 If the Sky Object you chose is above Water, it affects the entire uncovered surface of the Planet Carousel, because that is one big Water Tile.
 
