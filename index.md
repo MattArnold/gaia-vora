@@ -138,7 +138,7 @@ When you activate the Meteor, you will stack a Tile onto the location under the 
 
 A. It may be a Snow or Grass Land Tile which is off the board.
 
-B. It may be a Tile, or stack of Tiles, which are sitting directly on the Water of the Planet, and all the Life-forms standing on it (which are carried along).
+B. It may be a single Sand or Stone Tile, which is already on the Planet. All the Life-forms standing on it are carried along, and live in the new location.
 
 You may not create a stack with duplicates of the same Tile.
 
