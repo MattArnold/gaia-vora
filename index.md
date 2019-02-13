@@ -204,7 +204,7 @@ Eating also occurs instantly when a player uses the Sun or Rainbow to add Life-F
 
 *This returns the Yellow HerbiVore to Yellow. Because it is Yellow’s own color, it is returned to its reincarnation pool, not awarded as points in Yellow’s Fossils. A Fossil area is only for keeping one’s opponents’ Life-Forms, not one’s own.*
 
-SCORING
+## SCORING
 
 The game is over when the last Land Tile is added to the Planet.
 
