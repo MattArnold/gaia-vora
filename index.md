@@ -17,7 +17,7 @@ Rotate the planet board & select a Sky Object, to use its action on the land ben
 <img src="assets/images/gaia-vora.gif" width="80%">
 
 *The latest prototype will demo at:*
-- *The Loaded Die Con - Corktown, MI, October 13 and 14, 2018.*
+- *The Loaded Die Con - Corktown, Detroit, MI, October 13 and 14, 2018.*
 - *U-Con Board Game Convention - Ypsilanti, MI, November 9 through 11, 2018.*
 - *Penguicon - Southfield, MI, May 3 through 5, 2019.*
 
