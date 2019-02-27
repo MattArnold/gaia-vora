@@ -33,11 +33,9 @@ On the barren Planet of Gaia, players are Nature Spirits creating lush verdant l
 
 The objective of the game is for your Life-Forms to:
 
-Eat the Life-Forms of your opponents,
-
-Survive to the end of the game without being eaten or killed.
-
-Stand on top of many layers of Tiles.
+- Eat the Life-Forms of your opponents,
+- Survive to the end of the game without being eaten or killed.
+- Stand on top of many layers of Tiles.
 
 The central rule is: **Life-Forms of the same species may not share the same Tile, or the Water.**
 
@@ -50,35 +48,22 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
 ## COMPONENTS
 
 - 1 cardboard Sky Board
-
 - 1 cardboard Planet Carousel
-
 - 1 wooden north-pole Axle Peg
-
 - 1 cardboard ratchet-stopping Flap with a Moon printed on it
-
 - 48 Life-Form Figures in 4 player colors:
-
 - 12 CarniVore Figures (3 in each color)
-
 - 16 HerbiVore Figures (4 in each color)
-
 - 20 Plant Figures (5 in each color)
-
 - 16 Stars
-
 - 4 Fossil Cards in 4 player colors
-
 - 15 Land Tiles:
-
   - 3 Snow (white)
-
   - 4 Grass (green)
-
   - 4 Sand (orange)
-
   - 4 Stone (grey)
 
+<img src="assets/images/sky.png" height="400px">
 
 ## SETUP
 
