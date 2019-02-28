@@ -45,6 +45,8 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
 
 ## COMPONENTS
 
+<img src="assets/images/sky.png" height="400px">
+
 - 1 cardboard Sky Board
 - 1 cardboard Planet Carousel
 - 1 wooden north-pole Axle Peg
@@ -61,8 +63,6 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
   - 4 Grass (green)
   - 4 Sand (orange)
   - 4 Stone (grey)
-
-<img src="assets/images/sky.png" height="400px">
 
 ## SETUP
 
