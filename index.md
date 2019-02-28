@@ -78,7 +78,7 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
 
 6.  Give each player 12 Life-Form Figures in their color: 3 CarniVores, 4 HerbiVores, and 5 Plants. Each player places their Life-Forms on the table in front of them. This is their **Reincarnation Pool**.
 
-7.  Give each player a Fossil Card with a border in their color, with diagrams showing what the Sky Objects do. The Card also has a section showing buried Fossils; this Fossil area is where players will keep Life-Forms from their opponents which they have killed.
+7.  Give each player a Fossil Card with a border in their color. The Card also has a section showing buried Fossils, where players will keep Life-Forms from their opponents which they have killed.
 
 *For a game with fewer than four players, set up the Fossil Cards and Reincarnation Pools for unused player colors, the Bots. The Bots never take any turns or make any decisions, but Bot Life-Forms are available to place on the Planet using the Rainbow. If the Moon causes players’ Life-Forms to be eaten by a Bot’s Life-Forms, they go on that Bot’s Fossil Card. Bots cannot win the game.*
 
