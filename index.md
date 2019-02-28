@@ -53,6 +53,7 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
 - 12 CarniVore Figures (3 in each color)
 - 16 HerbiVore Figures (4 in each color)
 - 20 Plant Figures (5 in each color)
+- 1 Microbe Life Form (in a neutral color)
 - 16 Stars
 - 4 Fossil Cards in 4 player colors
 - 15 Land Tiles:
@@ -71,11 +72,13 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
 
 3.  Cover all the Water around the perimeter of the Planet with Stone and Sand Tiles, alternating. Align each Land Tile with one of the eight sawteeth around the Planet's edge.
 
-4.  Set aside the Snow and Grass Tiles within reach of the players.
+4. Place the neutral-colored Microbe in the Water in the center of the planet.
 
-5.  Give each player 12 Life-Form Figures in their color: 3 CarniVores, 4 HerbiVores, and 5 Plants. Each player places their Life-Forms on the table in front of them. This is their **Reincarnation Pool**.
+5.  Set aside the Snow and Grass Tiles within reach of the players.
 
-6.  Give each player a Fossil Card with a border in their color, with diagrams showing what the Sky Objects do. The Card also has a section showing buried Fossils; this Fossil area is where players will keep Life-Forms from their opponents which they have killed.
+6.  Give each player 12 Life-Form Figures in their color: 3 CarniVores, 4 HerbiVores, and 5 Plants. Each player places their Life-Forms on the table in front of them. This is their **Reincarnation Pool**.
+
+7.  Give each player a Fossil Card with a border in their color, with diagrams showing what the Sky Objects do. The Card also has a section showing buried Fossils; this Fossil area is where players will keep Life-Forms from their opponents which they have killed.
 
 *For a game with fewer than four players, set up the Fossil Cards and Reincarnation Pools for unused player colors, the Bots. The Bots never take any turns or make any decisions, but Bot Life-Forms are available to place on the Planet using the Rainbow. If the Moon causes players’ Life-Forms to be eaten by a Bot’s Life-Forms, they go on that Bot’s Fossil Card. Bots cannot win the game.*
 
@@ -133,6 +136,8 @@ If you chose to activate the Storm, move all Life-Forms out of the Tile under th
 
 *You must move out all the Life-Forms, even if you do not want to move all of them.*
 
+*The Microbe counts as a Life-Form.*
+
 ## THE METEOR
 
 <img src="assets/images/meteor.png" height="400px">
@@ -149,29 +154,31 @@ The Life-Forms which were standing on the Tile where this Tile landed are all ki
 
 Water is an exception: Life-Forms in the Water will always swim into the center of the Planet, gather around the Axle Peg, and survive the Meteor dropping a Tile on Water.
 
+*The Microbe is immortal. If the Meteor stacks a tile on the Microbe, stack the Microbe atop that tile.*
+
 # THE MOON
 
 <img src="assets/images/moon.png" width="400px">
 
 The player may not choose to activate the Moon. Instead, it activates itself to cause Eating in the location under it, at the end of each turn, and after every rotation step of the planet. Players do not get a choice about the Moon’s effect.
 
-Whenever CarniVores or HerbiVores are beneath the Moon, they immediately attempt to Eat! As long as they are NOT under the Moon, a CarniVore peacefully co-exists with a HerbiVore, and a HerbiVore co-exists with a Plant. But the Planet’s rotation steadily advances these peaceful locations clockwise, closer and closer to the Moon, where Eating occurs:
+Whenever Life-Forms are beneath the Moon, they immediately attempt to Eat! As long as they are NOT under the Moon, a HerbiVore peacefully co-exists with a Plant, a CarniVore co-exists with a HerbiVore, and the Microbe co-exists with a CarniVore. But the Planet’s rotation steadily advances these peaceful locations clockwise, closer and closer to the Moon, where Eating occurs:
 
-The player who owns the HerbiVore (if any) awards its player with ownership of the Plant (if any). Then the player who owns the CarniVore (if any) awards its player with ownership of the HerbiVore (if any).
+The player who owns the HerbiVore (if any) takes the Plant (if any). Then the player who owns the CarniVore (if any) takes the HerbiVore (if any). The Microbe returns the CarniVore to its Reincarnation Pool.
 
-*Plants do not eat anything. Nothing eats CarniVores; they cannot be eaten. *
+*Plants do not eat anything. Nothing eats the Microbe; it cannot be eaten.*
 
-When any player’s Life-Forms eat another Life-Form, the eaten Life-Form is awarded to the player whose color did the eating, even if that is not the player whose turn it is. The player whose Life-Form did the eating will keep the eaten Life-Form on their Fossil Card.
+When any player’s Life-Forms eat another Life-Form, the eaten Life-Form goes to the player whose color did the eating, even if that is not the player whose turn it is. When your Life-Form eats another Life-Form, keep the eaten Life-Form on your Fossil Card, covering an empty skeleton matching its species and color. (The top row of a Fossil card depicts jumbles of bones which may store any species.) If you do not have anywhere to put the Life-Form on your Fossil Card, return it to its player's Reincarnation Pool.
 
-*When a Bot player’s Life-Forms eat other Life-Forms, put them on the Fossil area on the Bot player’s Fossil Card.*
+*When a Bot player’s Life-Forms eat other Life-Forms, put them on the Bot player’s Fossil Card.*
 
 *Life-Forms are also able eat Life-Forms of the same color. They are required to do so, if given the opportunity.*
 
-*If your Life-Forms are eaten by your own Life-Forms, return them to your Reincarnation Pool instead of putting them on your Fossil Card. They may return to the Planet with the Sun or Rainbow on a future turn.*
+*If your Life-Forms are eaten by your own Life-Forms, return them to your Reincarnation Pool. They may return to the Planet with the Sun or Rainbow on a future turn.*
 
-Water will expand all the way to the edge of the Planet Carousel when Land Tiles of Stone and Sand stack on other Tiles throughout the game. Whenever an exposed Water edge is under the Moon’s position, Eating occurs in the Water.
+Water will expand all the way to the edge of the Planet Carousel when Land Tiles of Stone and Sand stack on other Tiles throughout the game. An exposed Water edge, under the Moon’s position, makes it possible for Eating to occur in the Water.
 
-Eating also occurs instantly when a player uses the Sun or Rainbow to add Life-Forms into the Water when it is under the Moon-- or, when a player uses the Storm to move Life-Forms into the Water when it is under the Moon, or out of the Water onto a Land Tile under the Moon.
+Eating also occurs at the end of the turn when a player uses the Sun or Rainbow to add Life-Forms into the Water when it is under the Moon-- or, when a player uses the Storm to move Life-Forms into the Water when it is under the Moon, or out of the Water onto a Land Tile under the Moon.
 
 ## Examples:
 
@@ -192,6 +199,8 @@ Eating also occurs instantly when a player uses the Sun or Rainbow to add Life-F
 The game is over when the last Land Tile is added to the Planet.
 
 Each of your opponents’ Life-Forms you killed and placed on your Fossil Card adds one point to your score.
+
+Each complete row on your Fossil Cards, containing three Life-Forms in the colors of all of your opponents, is worth one point, represented by the insect symbol.
 
 Each of your Life-Forms alive on the Planet adds one point to your score, for each Tile under it, including the Planet Carousel itself. So each one on the Water is worth one point, each one on a single layer of Land is worth two points, etc.
 
