@@ -52,11 +52,11 @@ body {
     margin-left: 60%;
     margin-right: 15%;
 }
-.main {
+.preamble, .main, .footer {
 	margin: 1rem;
 	text-align: left;
 }
-.main, .footer {
+.preamble, .main, .footer {
     background-color: #DFD9EC;
     border: 1rem solid #996699;
 }
@@ -66,7 +66,7 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
 }
-.header, .main, .footer{
+.header, .preamble, .main, .footer{
 	position: relative;
 	clear: both;
 	margin: 0 auto;
