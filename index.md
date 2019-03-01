@@ -6,23 +6,8 @@ order: 1
 published: true
 ---
 
-# An unpublished board game by Nemo Rathwald
-## designer of ["Overworld"](https://www.magicmeeplegames.com/overworld.html)
-### 2 to 4 players
-### 40 to 60 minutes
-### Ages 12 and up
-
-Rotate the planet board & select a Sky Object, to use its action on the land beneath it, to fill the desolate planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, to eat your opponents, and survive on the highest stacks of land tiles. But beware Vora, the Feastmoon!
-
-<img src="assets/images/gaia-vora.gif" width="80%">
-
-*The latest prototype will demo at:*
-- *The Loaded Die Con - Corktown, Detroit, MI, October 13 and 14, 2018.*
-- *U-Con Board Game Convention - Ypsilanti, MI, November 9 through 11, 2018.*
-- *Penguicon - Southfield, MI, May 3 through 5, 2019.*
-
 # Gaia-Vora Game Rules
-### February 13, 2019
+### Designed by Nemo Rathwald
 ### Illustrated by Matt Arnold
 
 ## OBJECTIVE
