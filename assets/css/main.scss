@@ -32,6 +32,7 @@ body {
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+    margin: 0;
 }
 .bg-layer {
     position: fixed;
@@ -58,13 +59,11 @@ body {
     margin-right: 15%;
 }
 .preamble, .main, .footer {
-	margin: 1rem;
     text-align: left;
     margin: 0 auto 100vh;
-}
-.preamble, .main, .footer {
     background-color: #DFD9EC;
-    border: 1rem solid #996699;
+    border-top: 1rem solid #996699;
+    border-bottom: 1rem solid #996699;
 }
 .header {
     height: 16rem;
