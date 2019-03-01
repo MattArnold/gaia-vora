@@ -74,10 +74,7 @@ body {
 .header, .preamble, .main, .footer{
 	position: relative;
 	clear: both;
-	width: 75%;
-	border-radius: 10px;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
+	width: 100%;
 }
 .header h1 {
     color: #fff;
@@ -92,6 +89,7 @@ h2 {
 .container {
     width: 40rem;
     margin: 0 auto;
+    position: relative;
 }
 img {
     float: right;
