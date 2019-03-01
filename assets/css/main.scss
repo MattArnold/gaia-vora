@@ -27,6 +27,11 @@ body {
     text-decoration: none;
     line-height: 1.5rem;
     background-color: #B2CCB2;
+    background-image: url(/assets/images/gaia-vora.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 .bg-layer {
     position: fixed;
@@ -54,7 +59,8 @@ body {
 }
 .preamble, .main, .footer {
 	margin: 1rem;
-	text-align: left;
+    text-align: left;
+    margin-bottom: 100vh;
 }
 .preamble, .main, .footer {
     background-color: #DFD9EC;
@@ -70,7 +76,6 @@ body {
 	position: relative;
 	clear: both;
 	margin: 0 auto;
-	margin-bottom: 2rem;
 	width: 94%;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
