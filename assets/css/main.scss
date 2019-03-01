@@ -26,7 +26,7 @@ body {
     font-family: "Josefin Sans", "Proxima Nova", Helvetica, Corbel, sans-serif;
     text-decoration: none;
     line-height: 1.5rem;
-    background-color: $secondary-dark;
+    background-color: #B2CCB2;
 }
 .bg-layer {
     position: fixed;
@@ -57,8 +57,14 @@ body {
 	text-align: left;
 }
 .main, .footer {
-    background-color: rgba(228, 244, 255, 0.9);
-    border: 1rem solid $primary-very-light;
+    background-color: #DFD9EC;
+    border: 1rem solid #996699;
+}
+.header {
+    height: 3rem;
+    background-image: url(assets/images/gaiavora-logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .header, .main, .footer{
 	position: relative;
