@@ -30,6 +30,9 @@ body {
     background-image: url(/assets/images/gaia-vora.gif);
     background-repeat: no-repeat;
     background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     margin: 0;
