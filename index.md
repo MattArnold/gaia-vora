@@ -52,10 +52,10 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
 - 1 wooden north-pole Axle Peg
 - 1 cardboard ratchet-stopping Flap with a Moon printed on it
 - 48 Life-Form Figures in 4 player colors:
-- 12 CarniVore Figures (3 in each color)
-- 16 HerbiVore Figures (4 in each color)
-- 20 Plant Figures (5 in each color)
-- 1 Microbe Life Form (in a neutral color)
+  - 12 CarniVore Figures (3 in each color)
+  - 16 HerbiVore Figures (4 in each color)
+  - 20 Plant Figures (5 in each color)
+- 1 Microbe Life-Form (in a neutral color)
 - 16 Stars
 - 4 Fossil Cards in 4 player colors
 - 15 Land Tiles:
