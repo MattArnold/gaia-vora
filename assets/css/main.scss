@@ -60,7 +60,7 @@ body {
 .preamble, .main, .footer {
 	margin: 1rem;
     text-align: left;
-    margin-bottom: 100vh;
+    margin: 0 auto 100vh;
 }
 .preamble, .main, .footer {
     background-color: #DFD9EC;
@@ -75,8 +75,7 @@ body {
 .header, .preamble, .main, .footer{
 	position: relative;
 	clear: both;
-	margin: 0 auto;
-	width: 94%;
+	width: 75%;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -88,8 +87,12 @@ body {
     font-family: 'Metamorphous';
     text-shadow: 0.2rem 0.2rem 0.5rem #00A2A4, -0.2rem 0.2rem 0.5rem #00A2A4;
 }
+h2 {
+    line-height: 2rem;
+}
 .container {
-    padding: 2rem;
+    width: 40rem;
+    margin: 0 auto;
 }
 img {
     float: right;
