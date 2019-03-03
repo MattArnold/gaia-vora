@@ -33,29 +33,37 @@ body {
     background-repeat: no-repeat;
     margin: 0;
 }
-.bg-layer {
-    position: fixed;
-    background-size: 20rem;
-    background-repeat: no-repeat;
+.parallax-wrapper {
+    height: 100vh;
+    perspective: 2px;
+    position: absolute;
+    z-index: 1;
 }
-.upper-left {
-    background-image: url(assets/images/sun.png);
+.layer .clouds {
+    content: " ";
+    width: 12rem;
+    height: 300rem;
+    z-index: 2;
+    background: url(/assets/images/parallax-cloud.png);
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    transform: translateZ(-1px) scale(1.5);
 }
-.upper-right {
-    background-image: url(assets/images/comet.png);
-    background-position-x: right;
-}
-.left-cloud, .center-cloud, .right-cloud {
-    background-image: url(assets/images/cloud.png);
-    background-position-x: center;
-}
-.left-cloud {
-    margin-left: 15%;
-    margin-right: 60%;
-}
-.right-cloud {
-    margin-left: 60%;
-    margin-right: 15%;
+.layer .sparkles {
+    content: " ";
+    width: 18rem;
+    height: 200rem;
+    z-index: 3;
+    background: url(/assets/images/parallax-sparkles.png);
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    transform: translateZ(-3px) scale(1.75);
 }
 .preamble, .main, .footer {
     text-align: left;
@@ -75,7 +83,7 @@ body {
 	clear: both;
 	width: 100%;
 }
-.header h1 {
+h1 {
     color: #fff;
     padding: 2rem;
     font-size: 4rem;
