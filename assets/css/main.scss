@@ -42,13 +42,11 @@ body {
     z-index: 1;
     overflow-x: hidden;
     overflow-y: auto;
-    left: -4rem;
 }
 .layer {
     height: 673rem;
     position: absolute;
     background-repeat: repeat-y;
-    background-size: 100%;
     top: 0;
     left: 0;
 }
@@ -57,26 +55,23 @@ body {
     height: 673rem;
     z-index: 2;
     background: url(/assets/images/parallax-cloud.png);
-    top: 26rem;
-    left: -26rem;
-    transform: translateZ(0.2px);
+    background-size: 100%;
+    transform: translateZ(0.11px);
 }
 .clouds-two {
     width: 14rem;
     height: 673rem;
     z-index: 3;
     background: url(/assets/images/parallax-cloud.png);
-    top: 143rem;
-    left: -12rem;
-    transform: translateZ(0.3px);
+    background-size: 100%;
+    transform: translateZ(0.12px);
 }
 .sparkles {
     width: 18rem;
     height: 673rem;
     z-index: 4;
     background: url(/assets/images/parallax-sparkles.png);
-    top: 0;
-    left: -14rem;
+    background-size: 100%;
     transform: translateZ(0.1px);
 }
 .preamble, .main, .footer {
