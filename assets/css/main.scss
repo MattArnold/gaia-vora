@@ -47,22 +47,27 @@ body {
     height: 673rem;
     position: absolute;
     background-repeat: repeat-y;
-    top: 0;
+}
+.clouds-front, .clouds-back {
+    background: url(/assets/images/parallax-cloud.png);
+}
+.left {
     left: 0;
 }
-.clouds-one {
+.right {
+    right: 0;
+}
+.clouds-front {
     width: 12rem;
     height: 673rem;
     z-index: 2;
-    background: url(/assets/images/parallax-cloud.png);
     background-size: 100%;
     transform: translateZ(0.11px);
 }
-.clouds-two {
+.clouds-back {
     width: 14rem;
     height: 673rem;
     z-index: 3;
-    background: url(/assets/images/parallax-cloud.png);
     background-size: 100%;
     transform: translateZ(0.12px);
 }
