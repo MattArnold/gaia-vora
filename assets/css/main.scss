@@ -34,9 +34,9 @@ body {
     margin: 0;
 }
 .parallax-wrapper {
-    height: 100vh;
+    height: 700rem;
     width: 21rem;
-    perspective: 2px;
+    perspective: 3px;
     position: absolute;
     z-index: 1;
     overflow-x: hidden;
@@ -47,10 +47,10 @@ body {
     position: relative;
     height: 100vh;
 }
-.clouds::after {
+.clouds-one::after {
     content: " ";
     width: 12rem;
-    height: 300rem;
+    height: 700rem;
     z-index: 2;
     background: url(/assets/images/parallax-cloud.png);
     background-size: 90%;
@@ -59,13 +59,27 @@ body {
     top: 0;
     bottom: 0;
     left: 0;
-    transform: translateZ(-1px) scale(1.5);
+    transform: translateZ(-2px) scale(1.5);
+}
+.clouds-two::after {
+    content: " ";
+    width: 12rem;
+    height: 700rem;
+    z-index: 3;
+    background: url(/assets/images/parallax-cloud.png);
+    background-size: 95%;
+    background-repeat: repeat-y;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    transform: translateZ(-1px) scale(1.6);
 }
 .sparkles::after {
     content: " ";
     width: 18rem;
-    height: 200rem;
-    z-index: 3;
+    height: 700rem;
+    z-index: 4;
     background: url(/assets/images/parallax-sparkles.png);
     background-size: 100%;
     position: absolute;
@@ -73,7 +87,7 @@ body {
     top: 0;
     bottom: 0;
     left: 0;
-    transform: translateZ(-3px) scale(1.75);
+    transform: translateZ(-1.5px) scale(1.75);
 }
 .preamble, .main, .footer {
     text-align: left;
@@ -96,9 +110,9 @@ body {
 h1 {
     color: #fff;
     padding: 2rem;
-    font-size: 4rem;
+    font-size: 2.75rem;
     font-family: 'Metamorphous';
-    text-shadow: 0.2rem 0.2rem 0.5rem #00A2A4, -0.2rem 0.2rem 0.5rem #00A2A4;
+    text-shadow: 0.2rem 0.2rem 0.5rem #996699, -0.2rem 0.2rem 0.5rem #996699;
 }
 h2 {
     line-height: 2rem;
