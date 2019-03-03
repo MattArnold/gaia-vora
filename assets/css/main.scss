@@ -34,9 +34,10 @@ body {
     margin: 0;
 }
 .parallax-wrapper {
-    height: 700rem;
+    height: 673rem;
     width: 21rem;
     perspective: 3px;
+    transform-style: preserve-3d;
     position: absolute;
     z-index: 1;
     overflow-x: hidden;
@@ -45,49 +46,36 @@ body {
 }
 .layer {
     position: relative;
-    height: 100vh;
+    height: 673rem;
+    position: absolute;
+    background-repeat: repeat-y;
 }
-.clouds-one::after {
-    content: " ";
+.clouds-one {
     width: 12rem;
-    height: 700rem;
+    height: 673rem;
     z-index: 2;
     background: url(/assets/images/parallax-cloud.png);
     background-size: 90%;
-    background-repeat: repeat-y;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
+    top: 26rem;
     transform: translateZ(-2px) scale(1.5);
 }
-.clouds-two::after {
-    content: " ";
+.clouds-two {
     width: 12rem;
-    height: 700rem;
+    height: 673rem;
     z-index: 3;
     background: url(/assets/images/parallax-cloud.png);
     background-size: 95%;
-    background-repeat: repeat-y;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
+    top: 113rem;
     transform: translateZ(-1px) scale(1.6);
 }
-.sparkles::after {
-    content: " ";
+.sparkles {
     width: 18rem;
-    height: 700rem;
+    height: 673rem;
     z-index: 4;
     background: url(/assets/images/parallax-sparkles.png);
     background-size: 100%;
-    position: absolute;
-    background-repeat: repeat-y;
     top: 0;
-    bottom: 0;
-    left: 0;
-    transform: translateZ(-1.5px) scale(1.75);
+    transform: translateZ(-1.5px) scale(1.7);
 }
 .preamble, .main, .footer {
     text-align: left;
