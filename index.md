@@ -141,7 +141,7 @@ Water is an exception: Life-Forms in the Water will always swim into the center 
 
 *The Microbe is immortal. If the Meteor stacks a tile on the Microbe, stack the Microbe atop that tile.*
 
-# THE MOON
+## THE MOON
 
 <img src="assets/images/moon.png" width="400px">
 
