@@ -59,6 +59,7 @@ body {
 }
 .content {
     width: 100%;
+    transform: translateZ(0.01px);
 }
 .header, .preamble, .main, .footer{
 	position: relative;
