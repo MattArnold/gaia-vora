@@ -147,9 +147,9 @@ Water is an exception: Life-Forms in the Water will always swim into the center 
 
 The player may not choose to activate the Moon. Instead, it activates itself to cause Eating in the location under it, at the end of each turn, and after every rotation step of the planet. Players do not get a choice about the Moon’s effect.
 
-Rotate one step, *eat now*. Rotate a second step, *eat again*. Use a Sky Object to end the turn, *eat*.
+Rotate one step, **eat now**. Rotate a second step, **eat again**. Use a Sky Object to end the turn, **eat**.
 
-In other words, Life-Forms do not *only* eat if they end this turn's rotation under the Moon *by exact count*: they also eat *as they pass* under the Moon.
+In other words, Life-Forms do not **only** eat if they end this turn's rotation under the Moon **by exact count**: they also eat **as they pass** under the Moon.
 
 Whenever Life-Forms are beneath the Moon, they immediately attempt to Eat! As long as they are NOT under the Moon, a HerbiVore peacefully co-exists with a Plant, a CarniVore co-exists with a HerbiVore, and the Microbe co-exists with a CarniVore. But the Planet’s rotation steadily advances these peaceful locations clockwise, closer and closer to the Moon, where Eating occurs:
 
