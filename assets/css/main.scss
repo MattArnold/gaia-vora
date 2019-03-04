@@ -51,11 +51,14 @@ body {
     border-bottom: 1rem solid #996699;
 }
 .header {
-    height: 16rem;
+    height: 18rem;
     background-image: url(/assets/images/gaiavora-logo.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+}
+.content {
+    width: 100%;
 }
 .header, .preamble, .main, .footer{
 	position: relative;
