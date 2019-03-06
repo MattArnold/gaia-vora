@@ -133,6 +133,8 @@ It may be a Snow or Grass Land Tile which is off the board.
 
 It may be a single Sand or Stone Tile, from its starting location on the Planet. All the Life-forms standing on it are carried along, and live in the new location.
 
+<img src="assets/images/meteor-use-example.png" width="100%">
+
 You may not create a stack with duplicates of the same Tile.
 
 The Life-Forms which were standing on the Tile where this Tile landed are all killed by this Tile falling on them. The killed Life-Forms go onto the Fossil area on the Fossil Card of the player whose turn it is.
