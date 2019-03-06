@@ -155,9 +155,13 @@ Whenever Life-Forms are beneath the Moon, they immediately attempt to Eat! As lo
 
 The player who owns the HerbiVore (if any) takes the Plant (if any). Then the player who owns the CarniVore (if any) takes the HerbiVore (if any). The Microbe returns the CarniVore to its Reincarnation Pool.
 
+<img src="assets/images/eating.png" width="400px">
+
 *Plants do not eat anything. Nothing eats the Microbe; it cannot be eaten.*
 
 When any player’s Life-Forms eat another Life-Form, the eaten Life-Form goes to the player whose color did the eating, even if that is not the player whose turn it is. When your Life-Form eats another Life-Form, keep the eaten Life-Form on your Fossil Card, covering an empty skeleton matching its species and color. (The top row of a Fossil card depicts jumbles of bones which may store any species.) If you do not have anywhere to put the Life-Form on your Fossil Card, return it to its player's Reincarnation Pool.
+
+<img src="assets/images/fossil-cards.png" width="400px">
 
 *When a Bot player’s Life-Forms eat other Life-Forms, put them on the Bot player’s Fossil Card.*
 
