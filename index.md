@@ -30,6 +30,12 @@ At the end of the game, you want your Life-Forms to live at high altitudes atop 
 
 Each Life-Form you have killed and placed on your Fossil Card is worth one point.
 
+Also, for each row you fill in on your Fossil Card, you receive a bonus point, represented by the Insect symbol.
+
+### Fossil cards:
+
+<img src="assets/images/fossil-cards.png" width="400px">
+
 ## COMPONENTS
 
 <img src="assets/images/sky.png" height="400px">
@@ -143,7 +149,7 @@ Note: You never move a tile **from** the location of the Meteor; only **to** it.
 
 You may not create a stack with duplicates of the same Tile color.
 
-The Life-Forms which were standing on the Tile where this Tile landed are all killed by this Tile falling on them. The killed Life-Forms go onto the Fossil area on the Fossil Card of the player whose turn it is.
+The Life-Forms which were standing on the Tile where this Tile landed are all killed by this Tile falling on them. The killed Life-Forms go onto the Fossil Card of the player whose turn it is.
 
 Water is an exception: Life-Forms in the Water will always swim into the center of the Planet, gather around the Axle Peg, and survive the Meteor dropping a Tile on Water.
 
