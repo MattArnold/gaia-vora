@@ -26,15 +26,15 @@ The central rule is: **Life-Forms of the same species may not share the same Til
 
 The biggest Tile is Planet Carousel itself, which is one big Water Tile. The Water, as well as each stack of Land Tiles, may only have one CarniVore, one HerbiVore, and one Plant standing on its exposed surface.
 
+<img src="assets/images/tile-stack-example.png" width="400px">
+
 At the end of the game, you want your Life-Forms to live at high altitudes atop stacks of Tiles. Land Tiles may not stack on top of other Tiles of the same color. And so the highest possible altitude is a stack of one Snow Tile, one Grass Tile, one Sand Tile, one Stone Tile, and the Water of the Planet Carousel itself. At game end, these five layers would confer five points to each Life-Form standing atop that stack, which is the maximum that any Life-Form can be worth.
+
+<img src="assets/images/fossil-cards.png" width="400px">
 
 Each Life-Form you have killed and placed on your Fossil Card is worth one point.
 
 Also, for each row you fill in on your Fossil Card, you receive a bonus point, represented by the Insect symbol.
-
-### Fossil cards:
-
-<img src="assets/images/fossil-cards.png" width="400px">
 
 ## COMPONENTS
 
