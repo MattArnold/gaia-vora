@@ -14,6 +14,8 @@ published: true
 
 On the barren Planet of Gaia, players are Nature Spirits creating lush verdant lands, and giving rise to Life-Forms which come in three Species: CarniVores, HerbiVores, and Plants. But the swollen Moon, Vora, gazes hungrily from the night sky. It is jealous of Gaia's life, and influences Species to eat each other!
 
+<img src="assets/images/species.png" height="400px">
+
 The objective of the game is for your Life-Forms to:
 
 - Eat the Life-Forms of your opponents,
@@ -77,7 +79,9 @@ To begin your turn, rotate the Planet one, two, or three steps. Each step trips 
 
 ### 2- End your turn by activating the Sun, Rainbow, Storm, or Meteor.
 
-The corners of the board are "Sky Objects". Each Sky Object (Sun, Rainbow, Storm, or Meteor) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it. Life-forms are born under the Rainbow and the Sun, migrate out from under the Storm, and get blown up when the Meteor drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following pages for how to activate the power of the Sky Object you chose.
+The corners of the board are "Sky Objects". Each Sky Object (Sun, Rainbow, Storm, or Meteor) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it.
+
+Life-forms are born under the Rainbow and the Sun, migrate out from under the Storm, and get blown up when the Meteor drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following sections for how to activate the power of the Sky Object you chose.
 
 (You may not select the Moon, because the Moon always activates its power no matter what you choose. Life-Forms only eat each other under the Moon, which will be discussed later.)
 
@@ -133,9 +137,11 @@ It may be a Snow or Grass Land Tile which is off the board.
 
 It may be a single Sand or Stone Tile, from its starting location on the Planet. All the Life-forms standing on it are carried along, and live in the new location.
 
+Note: You never move a tile **from** the location of the Meteor; only **to** it.
+
 <img src="assets/images/meteor-use-example.png" width="100%">
 
-You may not create a stack with duplicates of the same Tile.
+You may not create a stack with duplicates of the same Tile color.
 
 The Life-Forms which were standing on the Tile where this Tile landed are all killed by this Tile falling on them. The killed Life-Forms go onto the Fossil area on the Fossil Card of the player whose turn it is.
 
@@ -204,6 +210,14 @@ The winner is the player with the highest score. Ties are broken in favor of the
 *Example: Amy has a CarniVore, a HerbiVore, and a Plant on a stack of Snow/Grass/Sand/Stone/Water. Those five layers mean each Life-form is worth five points, for a total of fifteen points.*
 
 ## Q&amp;A:
+
+Q: Why are there multiple colors of Land Tiles? Do they work differently?
+
+A: You may not create a stack with duplicates of the same Tile color. Different colors exist only to limit the maximum height of a stack. Colors do not differ in any other way.
+
+Q: Do Life-Forms eat only if the Planet's rotation lands them under the Moon by exact count?
+
+A: Not only then. They also eat on each rotation step, as they **pass under** the Moon. Landing under the Moon by exact count is not required.
 
 Q: Are the players gods? Or aliens?
 
