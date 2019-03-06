@@ -12,9 +12,9 @@ published: true
 
 ## OBJECTIVE
 
-On the barren Planet of Gaia, players are Nature Spirits creating lush verdant lands, and giving rise to Life-Forms which come in three Species: CarniVores, HerbiVores, and Plants. But the swollen Moon, Vora, gazes hungrily from the night sky. It is jealous of Gaia's life, and influences Species to eat each other!
+On the barren Planet of Gaia, there arose the first Life-Form: a Microbe. Players are Nature Spirits creating lush verdant lands, and giving rise to new Life-Forms which come in three Species: CarniVores, HerbiVores, and Plants. But the swollen Moon, Vora, gazes hungrily from the night sky. It is jealous of Gaia's life, and influences Species to eat each other!
 
-<img src="assets/images/species.png" height="400px">
+<img src="assets/images/species.png" width="400px">
 
 The objective of the game is for your Life-Forms to:
 
