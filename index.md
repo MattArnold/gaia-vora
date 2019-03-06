@@ -71,11 +71,11 @@ Each Life-Form you have killed and placed on your Fossil Card is worth one point
 
 Players take turns in clockwise order.
 
-1. Begin your turn by rotating the Planet Carousel.
+### 1- Begin your turn by rotating the Planet Carousel.
 
 To begin your turn, rotate the Planet one, two, or three steps. Each step trips the ratchet-stopper once. You must spend a Star to stop at one step, or to rotate the Planet three steps. If you rotate the Planet two steps, you do not need to spend a Star. Once spent, Stars are gone for the rest of the game, so use them carefully!
 
-2. End your turn by activating the Sun, Rainbow, Storm, or Meteor.
+### 2- End your turn by activating the Sun, Rainbow, Storm, or Meteor.
 
 The corners of the board are "Sky Objects". Each Sky Object (Sun, Rainbow, Storm, or Meteor) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it. Life-forms are born under the Rainbow and the Sun, migrate out from under the Storm, and get blown up when the Meteor drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following pages for how to activate the power of the Sky Object you chose.
 
