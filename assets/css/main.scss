@@ -92,7 +92,7 @@ h1:before, h2:before, h3:before {
     display: table;
     clear: both;
 }
-@media (min-width: 770px) {
+@media (orientation:landscape) {
     body {
         background-image: url(/assets/images/gaia-vora-landscape.gif);
         background-position: center center;
