@@ -139,5 +139,8 @@ h1:before, h2:before, h3:before {
 @media (orientation:portrait) {
     body {
         background-image: url(/assets/images/gaia-vora-portrait.gif);
+        background-position: center center;
+        background-attachment: fixed;
+        background-size: cover;
     }
 }
