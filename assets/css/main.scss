@@ -136,7 +136,7 @@ h1:before, h2:before, h3:before {
         transform: translateZ(0.1px);
     }
 }
-@media (max-width: 769px) {
+@media (max-width: 769px), (orientation:portrait) {
     body:before {
         content: "";
         background: url(/assets/images/gaia-vora-portrait.gif) no-repeat top center;
