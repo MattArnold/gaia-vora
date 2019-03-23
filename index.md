@@ -10,6 +10,19 @@ published: true
 ### Designed by Nemo Rathwald
 ### Illustrated by Matt Arnold
 
+<p id="contact-btn">
+  <img src="/assets/images/emailNemoRathwald.png" style="width: 20rem; left: 5rem;"/>
+</p>
+
+<script type="text/javascript">
+  $(document).ready(function () {
+    var contact_btn = document.getElementById("contact-btn");
+    contact_btn.addEventListener('click', function(){
+      window.location.href = "mailto:nemorathwald@magicmeeplegames.com";
+    })
+  });
+</script>
+
 ## OBJECTIVE
 
 On the barren Planet of Gaia, there arose the first Life-Form: a Microbe. Players are Nature Spirits creating lush verdant lands, and giving rise to new Life-Forms which come in three Species: CarniVores, HerbiVores, and Plants. But the swollen Moon, Vora, gazes hungrily from the night sky. It is jealous of Gaia's life, and influences Species to eat each other!
