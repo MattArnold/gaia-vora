@@ -74,8 +74,6 @@ Also, for each row you fill in on your Fossil Card, you receive a bonus point, r
 
 7.  Give each player a Fossil Card with a border in their color. The Card also has a section showing buried Fossils, where players will keep Life-Forms from their opponents which they have killed.
 
-*For a game with fewer than four players, set up the Fossil Cards and Reincarnation Pools for unused player colors, the Bots. The Bots never take any turns or make any decisions, but Bot Life-Forms are available to place on the Planet using the Rainbow. If the Moon causes players’ Life-Forms to be eaten by a Bot’s Life-Forms, they go on that Bot’s Fossil Card. Bots cannot win the game.*
-
 ## TAKING A TURN
 
 Players take turns in clockwise order.
@@ -178,8 +176,6 @@ The player who owns the HerbiVore (if any) takes the Plant (if any). Then the pl
 
 When any player’s Life-Forms eat another Life-Form, the eaten Life-Form goes to the player whose color did the eating, even if that is not the player whose turn it is. When your Life-Form eats another Life-Form, keep the eaten Life-Form on your Fossil Card, covering an empty skeleton matching its species and color. (The top row of a Fossil card depicts jumbles of bones which may store any species.) If you do not have anywhere to put the Life-Form on your Fossil Card, return it to its player's Reincarnation Pool.
 
-*When a Bot player’s Life-Forms eat other Life-Forms, put them on the Bot player’s Fossil Card.*
-
 *Life-Forms are also able eat Life-Forms of the same color. They are required to do so, if given the opportunity.*
 
 *If your Life-Forms are eaten by your own Life-Forms, return them to your Reincarnation Pool. They may return to the Planet with the Sun or Rainbow on a future turn.*
@@ -215,6 +211,52 @@ Each of your Life-Forms alive on the Planet adds one point to your score, for ea
 The winner is the player with the highest score. Ties are broken in favor of the player with the most Life-Forms on the Planet.
 
 *Example: Amy has a CarniVore, a HerbiVore, and a Plant on a stack of Snow/Grass/Sand/Stone/Water. Those five layers mean each Life-form is worth five points, for a total of fifteen points.*
+
+## THREE PLAYER RULES
+
+All rules of the base game apply unless specified here.
+
+For a three player game, set up the Fossil Card and Reincarnation Pool for the extra player color, called "The Hibernator". Return the Hibernator's stars to the game box.
+
+The Hibernator does not take turns or make decisions. Hibernator Life-Forms only exist to be available to place on the Planet using the Rainbow.
+
+If the Moon causes players’ Life-Forms to be eaten by Hibernator Life-Forms, they go on the Hibernator Fossil Card. The Hibernator cannot win the game.
+
+All other rules of the base game still apply.
+
+## TWO PLAYER RULES
+
+All rules of the base game apply unless specified here.
+
+When playing with two players, each player selects two player colors, and takes all that color's game equipment, and four stars. Return the remaining stars to the game box.
+
+When using the Sun, you must still place only one of your two colors.
+
+When you kill Life-Forms with the Meteor or Storm, you may choose which of your Fossil Cards to put them on.
+
+At the end of the game, score your two colors separately. Your score is whichever is lower.
+
+## ONE PLAYER RULES
+
+All rules of the base game apply unless specified here.
+
+Solo Mode "Weather Cards" will be packaged and sold separately, but included by default with the base funding level of the Kickstarter.
+
+Use the game equipment for all four colors, and four stars. Shuffle the Weather Cards and place them face-down. This is the draw pile.
+
+To begin each turn, draw the top card of the draw pile and put it face-up in a discard pile. You may inspect the discard pile at any time. If the draw pile is empty, shuffle the discard pile to become the new draw pile, so that you can draw and discard the top card.
+
+Weather Cards each depict a numeral, 1, 2, or 3. Rotate the Planet that many steps. You may spend a Star to cancel this number and rotate the planet 1 step or 3 steps, your choice.
+
+Each card depicts a Sky Object-- Sand Meteor, Stone Meteor, Grass Meteor, Snow Meteor, Red Sun, Green Sun, White Sun, Yellow Sun, Storm, and Rainbow. Activate the Sky Object shown on the card, following its instruction as much as possible. If it cannot be used at all, then pass your turn.
+
+If you draw a Meteor card, you must drop the depicted Land Tile color on the position under the Meteor, either from the supply, or an unstacked Land Tile on the Planet. If it is not legal to do so (because its color is already in that Location, or because it is all in stacks on the Planet), then pass your turn.
+
+If you draw a Sun card, you may only use Life-Forms of the color depicted on the card, as many as legally possible. If you cannot legally place any (because that Reincarnation Pool is empty, or all the locations already have the available species in the Reincarnation Pool), pass your turn.
+
+When you kill Life-Forms with the Meteor or Storm, you may choose which of your Fossil Cards to put them on.
+
+There is no score in Solo Mode. If all four of your Reincarnation Pools are empty, you win! If the last Land Tile is added to the Planet by the Meteor, you lose!
 
 ## Q&amp;A:
 
