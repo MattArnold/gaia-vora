@@ -78,11 +78,17 @@ Also, for each row you fill in on your Fossil Card, you receive a bonus point, r
 
 Players take turns in clockwise order.
 
-### 1- Begin your turn by rotating the Planet Carousel.
+### 1- Begin your turn by rotating the Planet Carousel. The Moon causes Life-Forms to Eat.
+
+<img src="assets/images/moon.png" width="100px">
 
 To begin your turn, rotate the Planet one, two, or three steps. Each step trips the ratchet-stopper once. You must spend a Star to stop at one step, or to rotate the Planet three steps. If you rotate the Planet two steps, you do not need to spend a Star. Once spent, Stars are gone for the rest of the game, so use them carefully!
 
+After **each** rotation step, the Life-Forms in the location under the Moon eat each other. See the section "The Moon".
+
 ### 2- End your turn by activating the Sun, Rainbow, Storm, or Meteor.
+
+<img src="assets/images/sky-objects.png" width="100px">
 
 The corners of the board are "Sky Objects". Each Sky Object (Sun, Rainbow, Storm, or Meteor) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it.
 
@@ -102,19 +108,57 @@ After resolving the Sky Object you chose, play passes to the next player.
 
 The game is over at the end of the turn when all the Snow and Grass Tiles are on the Planet (See “Scoring”.)
 
+## THE MOON
+
+<img src="assets/images/moon.png" width="400px">
+
+The player may not choose to activate the Moon. Instead, it activates itself to cause Eating in the location under it, after every rotation step of the planet. Players do not get a choice about the Moon’s effect.
+
+Rotate one step, **eat now**. Rotate a second step, **eat again**.
+
+In other words, Life-Forms do not **only** eat if they end this turn's rotation under the Moon **by exact count**: they also eat **as they pass** under the Moon.
+
+As long as Life-Forms are NOT under the Moon, a HerbiVore peacefully co-exists with a Plant, a CarniVore co-exists with a HerbiVore, and the Microbe co-exists with a CarniVore. But the Planet’s rotation steadily advances these peaceful locations clockwise, closer and closer to the Moon, where Eating occurs:
+
+<img src="assets/images/eating.png" width="400px">
+
+The player who owns the HerbiVore (if any) takes the Plant (if any). Then the player who owns the CarniVore (if any) takes the HerbiVore (if any). The Microbe returns the CarniVore to its Reincarnation Pool.
+
+*Plants do not eat anything. Nothing eats the Microbe; it cannot be eaten.*
+
+<img src="assets/images/fossil-cards.png" width="400px">
+
+When any player’s Life-Forms eat another Life-Form, the eaten Life-Form goes to the player whose color did the eating, even if that is not the player whose turn it is. When your Life-Form eats another Life-Form, keep the eaten Life-Form on your Fossil Card, covering an empty skeleton matching its species and color. (The top row of a Fossil card depicts jumbles of bones which may store any species.) If you do not have anywhere to put the Life-Form on your Fossil Card, return it to its player's Reincarnation Pool.
+
+*Life-Forms are also able eat Life-Forms of the same color. They are required to do so, if given the opportunity.*
+
+*If your Life-Forms are eaten by your own Life-Forms, return them to your Reincarnation Pool. They may return to the Planet with the Sun or Rainbow on a future turn.*
+
+Water will expand all the way to the edge of the Planet Carousel when Land Tiles of Stone and Sand stack on other Tiles throughout the game. An exposed Water edge, under the Moon’s position, makes it possible for Eating to occur in the Water.
+
+## Examples:
+
+*At the start of the turn, the Yellow player rotates the Planet three steps.*
+
+*On the first rotation step, a Land Tile rotates into position under the Moon. It has a Green CarniVore, a White HerbiVore, and a Yellow Plant. The White player is awarded the Yellow Plant, and the Green player is awarded the White HerbiVore. These go into their Fossils (scoring areas).*
+
+*On the second rotation step, a Land Tile rotates into position under the Moon, which has a Yellow CarniVore and a Yellow Plant. CarniVores do not eat Plants, so nothing gets eaten here.*
+
+*On the third rotation step, there is no Land Tile that rotates into position under the Moon; instead, what rotates under the Moon is the bare surface of the Planet Carousel, which is Water. So, eating occurs in the Water. There is a Yellow HerbiVore and a Green Plant in the Water. Yellow is awarded the Green Plant. These go into their Fossils (scoring areas).*
+
 ## THE SUN OR THE RAINBOW
 
 <img src="assets/images/sun.png" height="400px"><img src="assets/images/rainbow.png" height="400px">
 
-If you chose to activate the Sun or Rainbow, add four Life-Forms (CarniVores, HerbiVores, or Plants) to the Planet: one on the Tile directly under the Sun or Rainbow, and one on the visible surface of each Tile touching that Tile, including Water.
+If you chose to activate the Sun or Rainbow, add four Life-Forms (CarniVores, HerbiVores, or Plants) to the Planet: See the diagram drawn on the object for the four places to put them: One directly under this Sky Object, one on the location under the next Sky Space clockwise, one under the next Sky space counter-clockwise, and one in the Water.
 
-If using the Sun, all four Life-Forms must be your own color. If using the Rainbow, all four Life-Forms must be in different colors.
+Some of those locations may have the Land Tiles removed to expose the Water. Those locations are same location as the Water, which only receives one Life-Form. Therefore, you might place fewer than four Life-Forms.
+
+If using the Sun, all the Life-Forms you place must be your own color. If using the Rainbow, all the Life-Forms you place must be in different colors.
 
 **Each Tile may only have one of each species standing on it.** *That means you might not place the maximum possible number of Life-Forms, if there is not room.*
 
 *The uncovered surface of the Planet Carousel is one big Water Tile, connected through the center of the Planet Carousel. So, check if any the Water already contains the species you are trying to add to the Water.*
-
-*If the Sun or Rainbow are over the exposed edge of the Water, this provides you with maximum options. Keep in mind that Water is adjacent to everything. Therefore, all of the locations on the Planet qualify as locations where you may add the four Life-Forms. You may choose which four locations receive the four Life-Forms, and which do not.*
 
 ## THE STORM
 
@@ -153,50 +197,6 @@ The Life-Forms which were standing on the Tile where this Tile landed are all ki
 Water is an exception: Life-Forms in the Water will always swim into the center of the Planet, gather around the Axle Peg, and survive the Meteor dropping a Tile on Water.
 
 *The Microbe is immortal. If the Meteor stacks a tile on the Microbe, stack the Microbe atop that tile.*
-
-## THE MOON
-
-<img src="assets/images/moon.png" width="400px">
-
-The player may not choose to activate the Moon. Instead, it activates itself to cause Eating in the location under it, at the end of each turn, and after every rotation step of the planet. Players do not get a choice about the Moon’s effect.
-
-Rotate one step, **eat now**. Rotate a second step, **eat again**. Use a Sky Object to end the turn, **eat**.
-
-In other words, Life-Forms do not **only** eat if they end this turn's rotation under the Moon **by exact count**: they also eat **as they pass** under the Moon.
-
-Whenever Life-Forms are beneath the Moon, they immediately attempt to Eat! As long as they are NOT under the Moon, a HerbiVore peacefully co-exists with a Plant, a CarniVore co-exists with a HerbiVore, and the Microbe co-exists with a CarniVore. But the Planet’s rotation steadily advances these peaceful locations clockwise, closer and closer to the Moon, where Eating occurs:
-
-<img src="assets/images/eating.png" width="400px">
-
-The player who owns the HerbiVore (if any) takes the Plant (if any). Then the player who owns the CarniVore (if any) takes the HerbiVore (if any). The Microbe returns the CarniVore to its Reincarnation Pool.
-
-*Plants do not eat anything. Nothing eats the Microbe; it cannot be eaten.*
-
-<img src="assets/images/fossil-cards.png" width="400px">
-
-When any player’s Life-Forms eat another Life-Form, the eaten Life-Form goes to the player whose color did the eating, even if that is not the player whose turn it is. When your Life-Form eats another Life-Form, keep the eaten Life-Form on your Fossil Card, covering an empty skeleton matching its species and color. (The top row of a Fossil card depicts jumbles of bones which may store any species.) If you do not have anywhere to put the Life-Form on your Fossil Card, return it to its player's Reincarnation Pool.
-
-*Life-Forms are also able eat Life-Forms of the same color. They are required to do so, if given the opportunity.*
-
-*If your Life-Forms are eaten by your own Life-Forms, return them to your Reincarnation Pool. They may return to the Planet with the Sun or Rainbow on a future turn.*
-
-Water will expand all the way to the edge of the Planet Carousel when Land Tiles of Stone and Sand stack on other Tiles throughout the game. An exposed Water edge, under the Moon’s position, makes it possible for Eating to occur in the Water.
-
-Eating also occurs at the end of the turn when a player uses the Sun or Rainbow to add Life-Forms into the Water when it is under the Moon-- or, when a player uses the Storm to move Life-Forms into the Water when it is under the Moon, or out of the Water onto a Land Tile under the Moon.
-
-## Examples:
-
-*At the start of the turn, the Yellow player rotates the Planet three steps.*
-
-*On the first rotation step, a Land Tile rotates into position under the Moon. It has a Green CarniVore, a White HerbiVore, and a Yellow Plant. The White player is awarded the Yellow Plant, and the Green player is awarded the White HerbiVore. These go into their Fossils (scoring areas).*
-
-*On the second rotation step, a Land Tile rotates into position under the Moon, which has a Yellow CarniVore and a Yellow Plant. CarniVores do not eat Plants, so nothing gets eaten here.*
-
-*On the third rotation step, there is no Land Tile that rotates into position under the Moon; instead, what rotates under the Moon is the bare surface of the Planet Carousel, which is Water. So, eating occurs in the Water. There is a Yellow HerbiVore and a Green Plant in the Water. Yellow is awarded the Green Plant. These go into their Fossils (scoring areas).*
-
-*Yellow activates Storm. The Storm is over a Land Tile with a Yellow CarniVore and a White Plant. Yellow moves them both of them into the Water. This instantly results in eating, because the Moon is over the Water. The Yellow HerbiVore (which as you recall, just got done eating the Green Plant in the last step) awards the White Plant to Yellow. Then the Yellow CarniVore eats the Yellow HerbiVore.*
-
-*This returns the Yellow HerbiVore to Yellow. Because it is Yellow’s own color, it is returned to its reincarnation pool, not awarded as points in Yellow’s Fossils. A Fossil area is only for keeping one’s opponents’ Life-Forms, not one’s own.*
 
 ## SCORING
 
