@@ -80,7 +80,7 @@ Players take turns in clockwise order.
 
 ### 1- Begin your turn by rotating the Planet Carousel. The Moon causes Life-Forms to Eat.
 
-<img src="assets/images/moon.png" width="100px">
+<img src="assets/images/moon.png" width="200px">
 
 To begin your turn, rotate the Planet one, two, or three steps. Each step trips the ratchet-stopper once. You must spend a Star to stop at one step, or to rotate the Planet three steps. If you rotate the Planet two steps, you do not need to spend a Star. Once spent, Stars are gone for the rest of the game, so use them carefully!
 
@@ -88,7 +88,7 @@ After **each** rotation step, the Life-Forms in the location under the Moon eat 
 
 ### 2- End your turn by activating the Sun, Rainbow, Storm, or Meteor.
 
-<img src="assets/images/sky-objects.png" width="100px">
+<img src="assets/images/sky-objects.png" width="200px">
 
 The corners of the board are "Sky Objects". Each Sky Object (Sun, Rainbow, Storm, or Meteor) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it.
 
