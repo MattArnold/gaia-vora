@@ -94,8 +94,6 @@ The corners of the board are "Sky Objects". Each Sky Object (Sun, Rainbow, Storm
 
 Life-forms are born under the Rainbow and the Sun, migrate out from under the Storm, and get blown up when the Meteor drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following sections for how to activate the power of the Sky Object you chose.
 
-(You may not select the Moon, because the Moon always activates its power no matter what you choose. Life-Forms only eat each other under the Moon, which will be discussed later.)
-
 *If it is not possible to completely fulfill the instructions of a Sky Object, carry them out as much as possible. Skip any steps that are impossible.*
 
 *However, you may not select that Sky Object at a time when every step of it would be impossible; you are not allowed to select a Sky Object whose activation would cause nothing to change.*
