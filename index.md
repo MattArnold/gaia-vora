@@ -60,7 +60,7 @@ Also, for each row you fill in on your Fossil Card, you receive a bonus point, r
 
 ## SETUP
 
-1.  Take the ratchet-stopping flap, depicting Vora, the Moon. Insert its tab into the slot on the Sky Board. This ensures that the Planet Carousel can only rotate clockwise.
+1.  Take the ratchet-stopping flap, depicting Vora, [the Moon](#the-moon). Insert its tab into the slot on the Sky Board. This ensures that the Planet Carousel can only rotate clockwise.
 
 2.  Stack the Planet Carousel on the Sky Board. Insert the wooden dowel Peg through the holes in both layers so that the Planet Carousel can rotate on the Sky Board.
 
@@ -86,15 +86,15 @@ Players take turns in clockwise order.
 
 To begin your turn, rotate the Planet one, two, or three steps. Each step trips the ratchet-stopper once. You must spend a Star to stop at one step, or to rotate the Planet three steps. If you rotate the Planet two steps, you do not need to spend a Star. Once spent, Stars are gone for the rest of the game, so use them carefully!
 
-After **each** rotation step, the Life-Forms in the location under the Moon eat each other. See the section "The Moon".
+After **each** rotation step, the Life-Forms in the location under the Moon eat each other. See the section "[the Moon](#the-moon)".
 
 ### 2- End your turn by activating the Sun, Rainbow, Storm, or Meteor.
 
 <img src="assets/images/sky-objects.png" width="200px">
 
-The corners of the board are "Sky Objects". Each Sky Object (Sun, Rainbow, Storm, or Meteor) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it.
+The corners of the board are "Sky Objects". Each Sky Object ([Sun](#the-sun-or-the-rainbow), [Rainbow](#the-sun-or-the-rainbow), [Storm](#the-storm), or [Meteor](#the-meteor)) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it.
 
-Life-forms are born under the Rainbow and the Sun, migrate out from under the Storm, and get blown up when the Meteor drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following sections for how to activate the power of the Sky Object you chose.
+Life-forms are born under [the Rainbow](#the-sun-or-the-rainbow) and the Sun, migrate out from under [the Storm](#the-storm), and get blown up when [the Meteor](#the-meteor) drops a Tile on them. But you may only activate one of these Sky Objects per turn. See the following sections for how to activate the power of the Sky Object you chose.
 
 *If it is not possible to completely fulfill the instructions of a Sky Object, carry them out as much as possible. Skip any steps that are impossible.*
 
@@ -132,7 +132,7 @@ When any player’s Life-Forms eat another Life-Form, the eaten Life-Form goes t
 
 *Life-Forms are also able eat Life-Forms of the same color. They are required to do so, if given the opportunity.*
 
-*If your Life-Forms are eaten by your own Life-Forms, return them to your Reincarnation Pool. They may return to the Planet with the Sun or Rainbow on a future turn.*
+*If your Life-Forms are eaten by your own Life-Forms, return them to your Reincarnation Pool. They may return to the Planet with [the Sun](#the-sun-or-the-rainbow) or Rainbow on a future turn.*
 
 Water will expand all the way to the edge of the Planet Carousel when Land Tiles of Stone and Sand stack on other Tiles throughout the game. An exposed Water edge, under the Moon’s position, makes it possible for Eating to occur in the Water.
 
@@ -218,9 +218,9 @@ All rules of the base game apply unless specified here.
 
 For a three player game, set up the Fossil Card and Reincarnation Pool for the extra player color, called "The Hibernator". Return the Hibernator's stars to the game box.
 
-The Hibernator does not take turns or make decisions. Hibernator Life-Forms only exist to be available to place on the Planet using the Rainbow.
+The Hibernator does not take turns or make decisions. Hibernator Life-Forms only exist to be available to place on the Planet using [the Rainbow](#the-sun-or-the-rainbow).
 
-If the Moon causes players’ Life-Forms to be eaten by Hibernator Life-Forms, they go on the Hibernator Fossil Card. The Hibernator cannot win the game.
+If [the Moon](#the-moon) causes players’ Life-Forms to be eaten by Hibernator Life-Forms, they go on the Hibernator Fossil Card. The Hibernator cannot win the game.
 
 All other rules of the base game still apply.
 
@@ -230,9 +230,9 @@ All rules of the base game apply unless specified here.
 
 When playing with two players, each player selects two player colors, and takes all that color's game equipment, and four stars. Return the remaining stars to the game box.
 
-When using the Sun, you must still place only one of your two colors.
+When using [the Sun](#the-sun-or-the-rainbow), you must still place only one of your two colors.
 
-When you kill Life-Forms with the Meteor or Storm, you may choose which of your Fossil Cards to put them on.
+When you kill Life-Forms with [the Meteor](#the-meteor) or [Storm](#the-storm), you may choose which of your Fossil Cards to put them on.
 
 At the end of the game, score your two colors separately. Your score is whichever is lower.
 
@@ -248,15 +248,15 @@ To begin each turn, draw the top card of the draw pile and put it face-up in a d
 
 Weather Cards each depict a numeral, 1, 2, or 3. Rotate the Planet that many steps. You may spend a Star to cancel this number and rotate the planet 1 step or 3 steps, your choice.
 
-Each card depicts a Sky Object-- Sand Meteor, Stone Meteor, Grass Meteor, Snow Meteor, Red Sun, Green Sun, White Sun, Yellow Sun, Storm, and Rainbow. Activate the Sky Object shown on the card, following its instruction as much as possible. If it cannot be used at all, then pass your turn.
+Each card depicts a Sky Object-- Sand [Meteor](#the-meteor), Stone [Meteor](#the-meteor), Grass [Meteor](#the-meteor), Snow [Meteor](#the-meteor), Red [Sun](#the-sun-or-the-rainbow), Green [Sun](#the-sun-or-the-rainbow), White [Sun](#the-sun-or-the-rainbow), Yellow [Sun](#the-sun-or-the-rainbow), [Storm](#the-storm), and [Rainbow](#the-rainbow). Activate the Sky Object shown on the card, following its instruction as much as possible. If it cannot be used at all, then pass your turn.
 
-If you draw a Meteor card, you must drop the depicted Land Tile color on the position under the Meteor, either from the supply, or an unstacked Land Tile on the Planet. If it is not legal to do so (because its color is already in that Location, or because it is all in stacks on the Planet), then pass your turn.
+If you draw a Meteor card, you must drop the depicted Land Tile color on the position under [the Meteor](#the-meteor), either from the supply, or an unstacked Land Tile on the Planet. If it is not legal to do so (because its color is already in that Location, or because it is all in stacks on the Planet), then pass your turn.
 
-If you draw a Sun card, you may only use Life-Forms of the color depicted on the card, as many as legally possible. If you cannot legally place any (because that Reincarnation Pool is empty, or all the locations already have the available species in the Reincarnation Pool), pass your turn.
+If you draw a [Sun](#the-sun-or-the-rainbow) card, you may only use Life-Forms of the color depicted on the card, as many as legally possible. If you cannot legally place any (because that Reincarnation Pool is empty, or all the locations already have the available species in the Reincarnation Pool), pass your turn.
 
-When you kill Life-Forms with the Meteor or Storm, you may choose which of your Fossil Cards to put them on.
+When you kill Life-Forms with [the Meteor](#the-meteor) or [Storm](#the-storm), you may choose which of your Fossil Cards to put them on.
 
-There is no score in Solo Mode. If all four of your Reincarnation Pools are empty, you win! If the last Land Tile is added to the Planet by the Meteor, you lose!
+There is no score in Solo Mode. If all four of your Reincarnation Pools are empty, you win! If the last Land Tile is added to the Planet by [the Meteor](#the-meteor), you lose!
 
 ## Q&amp;A:
 
@@ -264,9 +264,9 @@ Q: Why are there multiple colors of Land Tiles? Do they work differently?
 
 A: You may not create a stack with duplicates of the same Tile color. Different colors exist only to limit the maximum height of a stack. Colors do not differ in any other way.
 
-Q: Do Life-Forms eat only if the Planet's rotation lands them under the Moon by exact count?
+Q: Do Life-Forms eat only if the Planet's rotation lands them under [the Moon](#the-moon) by exact count?
 
-A: Not only then. They also eat on each rotation step, as they **pass under** the Moon. Landing under the Moon by exact count is not required.
+A: Not only then. They also eat on each rotation step, as they **pass under** [the Moon](#the-moon). Landing under [the Moon](#the-moon) by exact count is not required.
 
 Q: Are the players gods? Or aliens?
 
