@@ -74,7 +74,9 @@ Also, for each row you fill in on your Fossil Card, you receive a bonus point, r
 
 7.  Give each player a Fossil Card with a border in their color. The Card also has a section showing buried Fossils, where players will keep Life-Forms from their opponents which they have killed.
 
-## TAKING A TURN
+See the end of these instructions to set up games with fewer than 4 players.
+
+## SUMMARY OF A TURN
 
 Players take turns in clockwise order.
 
