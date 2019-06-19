@@ -102,7 +102,7 @@ Life-forms are born under [the Rainbow](#the-sun-or-the-rainbow) and the Sun, mi
 
 *You are required to take as many steps as you can. If taking the steps in a different order would result in subsequent steps being impossible, you must take steps in whichever order lets you do the most. However, if your opponents don’t point it out, then it was legal.*
 
-If the Sky Object you chose is above Water, it affects everywhere on the Planet Carousel which are not covered by Land Tiles. All of the Water is one big Water Tile. Being on the edge is the same location as being in the center. You may scoot all the meeples in the Water into the center at any time, if that helps you remember.
+All of the Water is one big Water Tile. Being on the edge is the same location as being in the center. You may scoot all the meeples in the Water into the center at any time, if that helps you remember.
 
 After resolving the Sky Object you chose, play passes to the next player.
 
@@ -248,7 +248,7 @@ To begin each turn, draw the top card of the draw pile and put it face-up in a d
 
 Weather Cards each depict a numeral, 1, 2, or 3. Rotate the Planet that many steps. You may spend a Star to cancel this number and rotate the planet 1 step or 3 steps, your choice.
 
-Each card depicts a Sky Object-- Sand [Meteor](#the-meteor), Stone [Meteor](#the-meteor), Grass [Meteor](#the-meteor), Snow [Meteor](#the-meteor), Red [Sun](#the-sun-or-the-rainbow), Green [Sun](#the-sun-or-the-rainbow), White [Sun](#the-sun-or-the-rainbow), Yellow [Sun](#the-sun-or-the-rainbow), [Storm](#the-storm), and [Rainbow](#the-rainbow). Activate the Sky Object shown on the card, following its instruction as much as possible. If it cannot be used at all, then pass your turn.
+Each card depicts a Sky Object-- Sand [Meteor](#the-meteor), Stone [Meteor](#the-meteor), Grass [Meteor](#the-meteor), Snow [Meteor](#the-meteor), Red [Sun](#the-sun-or-the-rainbow), Green [Sun](#the-sun-or-the-rainbow), White [Sun](#the-sun-or-the-rainbow), Yellow [Sun](#the-sun-or-the-rainbow), [Storm](#the-storm), and [Rainbow](#the-sun-or-the-rainbow). Activate the Sky Object shown on the card, following its instruction as much as possible. If it cannot be used at all, then pass your turn.
 
 If you draw a Meteor card, you must drop the depicted Land Tile color on the position under [the Meteor](#the-meteor), either from the supply, or an unstacked Land Tile on the Planet. If it is not legal to do so (because its color is already in that Location, or because it is all in stacks on the Planet), then pass your turn.
 
