@@ -14,7 +14,7 @@ published: true
 
 On the barren Planet of Gaia, there arose the first Life-Form: a Microbe. Players are Nature Spirits creating lush verdant lands, and giving rise to new Life-Forms which come in three Species: CarniVores, HerbiVores, and Plants. But the swollen Moon, Vora, gazes hungrily from the night sky. It is jealous of Gaia's life, and influences Species to eat each other!
 
-<img src="assets/images/species.png" width="400px">
+<img class="big-image" src="assets/images/species.png">
 
 The objective of the game is for your Life-Forms to:
 
@@ -22,7 +22,7 @@ The objective of the game is for your Life-Forms to:
 - Survive to the end of the game without being eaten or killed.
 - Stand on top of many layers of Tiles.
 
-<img src="assets/images/tile-stack-example.png" width="400px">
+<img class="big-image" src="assets/images/tile-stack-example.png">
 
 The central rule is: **Life-Forms of the same species may not share the same Tile, or the Water.**
 
@@ -31,7 +31,7 @@ The biggest Tile is Planet Carousel itself, which is one big Water Tile. The Wat
 
 At the end of the game, you want your Life-Forms to live at high altitudes atop stacks of Tiles. Land Tiles may not stack on top of other Tiles of the same color. And so the highest possible altitude is a stack of one Snow Tile, one Grass Tile, one Sand Tile, one Stone Tile, and the Water of the Planet Carousel itself. At game end, these five layers would confer five points to each Life-Form standing atop that stack, which is the maximum that any Life-Form can be worth.
 
-<img src="assets/images/fossil-cards.png" width="400px">
+<img class="big-image" src="assets/images/fossil-cards.png">
 
 Each Life-Form you have killed and placed on your Fossil Card is worth one point.
 
@@ -39,7 +39,7 @@ Also, for each row you fill in on your Fossil Card, you receive a bonus point, r
 
 ## COMPONENTS
 
-<img src="assets/images/sky.png" height="400px">
+<img class="big-image" src="assets/images/sky.png">
 
 - 1 cardboard Sky Board
 - 1 cardboard Planet Carousel
@@ -82,7 +82,7 @@ Players take turns in clockwise order.
 
 ### 1- Begin your turn by rotating the Planet Carousel. The Moon causes Life-Forms to Eat.
 
-<img src="assets/images/moon.png" width="200px">
+<img class="small-image" src="assets/images/moon.png">
 
 To begin your turn, rotate the Planet one, two, or three steps. Each step trips the ratchet-stopper once. You must spend a Star to stop at one step, or to rotate the Planet three steps. If you rotate the Planet two steps, you do not need to spend a Star. Once spent, Stars are gone for the rest of the game, so use them carefully!
 
@@ -90,7 +90,7 @@ After **each** rotation step, the Life-Forms in the location under the Moon eat 
 
 ### 2- End your turn by activating the Sun, Rainbow, Storm, or Meteor.
 
-<img src="assets/images/sky-objects.png" width="200px">
+<img class="small-image" src="assets/images/sky-objects.png">
 
 The corners of the board are "Sky Objects". Each Sky Object ([Sun](#the-sun-or-the-rainbow), [Rainbow](#the-sun-or-the-rainbow), [Storm](#the-storm), or [Meteor](#the-meteor)) has a different power. After you have rotated the planet, choose a Sky Object, and activate its power on the Tile beneath it.
 
@@ -110,7 +110,7 @@ The game is over at the end of the turn when all the Snow and Grass Tiles are on
 
 ## THE MOON
 
-<img src="assets/images/moon.png" width="400px">
+<img class="big-image" src="assets/images/moon.png">
 
 The player may not choose to activate the Moon. Instead, it activates itself to cause Eating in the location under it, after every rotation step of the planet. Players do not get a choice about the Moon’s effect.
 
@@ -120,13 +120,13 @@ In other words, Life-Forms do not **only** eat if they end this turn's rotation 
 
 As long as Life-Forms are NOT under the Moon, a HerbiVore peacefully co-exists with a Plant, a CarniVore co-exists with a HerbiVore, and the Microbe co-exists with a CarniVore. But the Planet’s rotation steadily advances these peaceful locations clockwise, closer and closer to the Moon, where Eating occurs:
 
-<img src="assets/images/eating.png" width="400px">
+<img class="big-image" src="assets/images/eating.png">
 
 The player who owns the HerbiVore (if any) takes the Plant (if any). Then the player who owns the CarniVore (if any) takes the HerbiVore (if any). The Microbe returns the CarniVore to its Reincarnation Pool.
 
 *Plants do not eat anything. Nothing eats the Microbe; it cannot be eaten.*
 
-<img src="assets/images/fossil-cards.png" width="400px">
+<img class="big-image" src="assets/images/fossil-cards.png">
 
 When any player’s Life-Forms eat another Life-Form, the eaten Life-Form goes to the player whose color did the eating, even if that is not the player whose turn it is. When your Life-Form eats another Life-Form, keep the eaten Life-Form on your Fossil Card, covering an empty skeleton matching its species and color. (The top row of a Fossil card depicts jumbles of bones which may store any species.) If you do not have anywhere to put the Life-Form on your Fossil Card, return it to its player's Reincarnation Pool.
 
@@ -148,7 +148,7 @@ Water will expand all the way to the edge of the Planet Carousel when Land Tiles
 
 ## THE SUN OR THE RAINBOW
 
-<img src="assets/images/sun.png" height="400px"><img src="assets/images/rainbow.png" height="400px">
+<img class="big-image" src="assets/images/sun.png"><img class="big-image" src="assets/images/rainbow.png">
 
 If you chose to activate the Sun or Rainbow, add four Life-Forms (CarniVores, HerbiVores, or Plants) to the Planet: See the diagram drawn on the object for the four places to put them: One directly under this Sky Object, one on the location under the next Sky Space clockwise, one under the next Sky space counter-clockwise, and one in the Water.
 
@@ -162,7 +162,7 @@ If using the Sun, all the Life-Forms you place must be your own color. If using 
 
 ## THE STORM
 
-<img src="assets/images/storm.png" height="400px">
+<img class="big-image" src="assets/images/storm.png">
 
 If you chose to activate the Storm, move all Life-Forms out of the Tile under the Storm. Move them into any Tiles that Tile is next to, which may include Water. (The Water is next to everything.)
 
@@ -178,7 +178,7 @@ If you chose to activate the Storm, move all Life-Forms out of the Tile under th
 
 ## THE METEOR
 
-<img src="assets/images/meteor.png" height="400px">
+<img class="big-image" src="assets/images/meteor.png">
 
 When you activate the Meteor, you will stack a Tile onto the location under the Meteor.
 
@@ -188,7 +188,7 @@ It may be a single Sand or Stone Tile, from its starting location on the Planet.
 
 Note: You never move a tile **from** the location of the Meteor; only **to** it.
 
-<img src="assets/images/meteor-use-example.png" width="100%">
+<img class="full-width-image" src="assets/images/meteor-use-example.png">
 
 You may not create a stack with duplicates of the same Tile color.
 
